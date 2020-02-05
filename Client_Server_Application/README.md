@@ -1,4 +1,4 @@
-# <b><u>Echo Application to measure TCP performance</u></b>
+# <u>Echo Application to measure TCP performance</u>
 
 ## <b>Echo Client-Server Application</b>
 
