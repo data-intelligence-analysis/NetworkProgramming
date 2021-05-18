@@ -2,6 +2,8 @@
 
 Implement a client and a server that communicate over a network using TCP. The server is essentially an echo server, which simply echoes the message it receives from the client
 
+<b>Documentation is saved as Network Programming.pdf</b>
+
 ## Echo Client-Server Application
 
 ## Table of Contents
